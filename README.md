@@ -1,5 +1,5 @@
-## Project: Expense Tracker 🌟
+# Project: Expense Tracker 🌟
 
-# Author: Purnima Gangwar👩‍💻
+## Author: Purnima Gangwar👩‍💻
 
  THANK YOU!
