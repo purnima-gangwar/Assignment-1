@@ -1,3 +1,2 @@
-Project-Expense Tracker
-<br>
-Author: Purnima
+## Project: Expense Tracker
+# Author: Purnima
